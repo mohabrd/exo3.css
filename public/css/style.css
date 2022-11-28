@@ -1,1 +1,3 @@
-    
+section:nth-child(3) h3, section:nth-child(3) ul {
+    color: red;
+}
